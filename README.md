@@ -1,15 +1,19 @@
 
 -Set up virtual environment:
 
+'''
 $python3 -m venv venv
 $source venv/bin/activate
 $pip install -r requirements.txt
+'''
 
 -Set up kernel channel in jupyter notebook (demo.ipynb):
 
+'''
 $pip install ipykernel
 $pip install notebook
 $python3 -m ipykernel install --user --name=virtual_biopsy
+'''
 
 -ASAP application: use "measurement" annotation
     +First-click point: starting point, where the biopsy core starts
