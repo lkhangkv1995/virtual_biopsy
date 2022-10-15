@@ -23,4 +23,4 @@ ASAP application use "measurement" annotation:
 Options: default by
 - Biopsy length: 1.0 mm (std = 0.35)
 - Biopy radius: 0.12 (std = 0.02)
-- They should be x10 but large to compute
+- They should be x10 for 16G needles.
