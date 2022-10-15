@@ -16,7 +16,7 @@ $python3 -m ipykernel install --user --name=virtual_biopsy
 ```
 
 -ASAP application: use "measurement" annotation
-*Tabspace*+First-click point: starting point, where the biopsy core starts
+\t+First-click point: starting point, where the biopsy core starts
 *Tabspace*+Second-click point: direction point, used to dictate the biopsy direction
 *Tabspace*+Number of annotations = number of biopsy cores
 
