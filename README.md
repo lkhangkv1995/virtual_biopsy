@@ -16,11 +16,11 @@ $python3 -m ipykernel install --user --name=virtual_biopsy
 ```
 
 -ASAP application: use "measurement" annotation
-    +First-click point: starting point, where the biopsy core starts
-    +Second-click point: direction point, used to dictate the biopsy direction
-    +Number of annotations = number of biopsy cores
+*Tabspace*+First-click point: starting point, where the biopsy core starts
+*Tabspace*+Second-click point: direction point, used to dictate the biopsy direction
+*Tabspace*+Number of annotations = number of biopsy cores
 
 -Options: default by
-    +Biopsy length: 1.0 mm (std = 0.35)
-    +Biopy radius: 0.12 (std = 0.02)
-    +They should be x10 but large to compute
+*Tabspace*+Biopsy length: 1.0 mm (std = 0.35)
+*Tabspace*+Biopy radius: 0.12 (std = 0.02)
+*Tabspace*+They should be x10 but large to compute
